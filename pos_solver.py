@@ -1,13 +1,3 @@
-###################################
-# CS B551 Fall 2021, Assignment #3
-#
-# Your names and user ids:
-# CODE BY: Srinivas Kini | skini@iu.edu
-# Contributors:
-# Karthik Shathiri | kashat@iu.edu
-# Karan Gupta | kmgupta@iu.edu
-# (Based on skeleton code by D. Crandall)
-
 # References:
 # https://github.com/gurjaspalbedi/parts-of-speech-tagging/blob/master/pos_solver.py (ONLY FOR GIBBS SAMPLING)
 # https://www.mygreatlearning.com/blog/pos-tagging/ (NO CODE TAKEN)
